@@ -2,4 +2,4 @@
 repository for training
 
 It's me, Nikita
-I've made thid account for learning computer science in CS50.
+I've made this account for learning computer science in CS50.
